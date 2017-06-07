@@ -1,5 +1,0 @@
-location: .
-components:
-- name: repo_2
-  repo: https://github.com/MasterOdin/gitvier-demo
-  rev: branch_2

@@ -1,0 +1,8 @@
+location: vendor
+components:
+- name: repo_1
+  repo: https://github.com/MasterOdin/gitvier-demo
+  rev: master
+- name: repo_2
+  repo: https://github.com/MasterOdin/gitvier-demo
+  rev: branch
